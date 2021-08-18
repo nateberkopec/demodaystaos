@@ -1,4 +1,4 @@
-## Taos DemoDays is where Taos tech gathers
+## Taos DemoDays
 
 Taos DemoDays is a regular gathering where Taos’ tech community shares what they’ve been up to with small, informal demos and lightning talks.
 
