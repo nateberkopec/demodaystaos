@@ -1,37 +1,37 @@
-## Test
+## Taos DemoDays is where Taos tech gathers
 
-You can use the [editor on GitHub](https://github.com/nateberkopec/demodaystaos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Taos DemoDays is a regular gathering where Taos’ tech community shares what they’ve been up to with small, informal demos and lightning talks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Open to all technologists, programmers, makers, digital doers of all sizes and stripes. 
 
-### Markdown
+### The Format
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DemoDays go like this:
 
-```markdown
-Syntax highlighted code block
+1. Everyone is encouraged to "demo", for 2 minutes, a tech or tech-adjacent thing that they've worked on or played with recently.
+2. 0 to `n` people who want to do longer demos of up to 10 minutes give their demos.
+3. Finish up with food, drinks and informal chatter.
 
-# Header 1
-## Header 2
-### Header 3
+### The Next Event
 
-- Bulleted
-- List
+The next DemoDay event is on **Wednesday, September 8th 2021** from 5:30-7pm at Taos HIVE, 1146 Gusdorf Road.
 
-1. Numbered
-2. List
+RSVP on Facebook here.
 
-**Bold** and _Italic_ and `Code` text
+### How To Demo
 
-[Link](url) and ![Image](src)
-```
+We encourage _every_ attendee of a DemoDay to present. It's really easy!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can present in a 2 minute (short demo) or 10 minute (long demo) slot. You don't have to be polished or even, really, prepared.
 
-### Jekyll Themes
+The only requriement to speak at a DemoDay is that you must present a tech or tech-adjacent "thing" that you, personally, have worked on recently. It doesn't have to be finished, it doesn't have to be perfect, and if it's a 2-minute short demo, honestly, don't even worry if it's all that interesting. The purpose of demos is to introduce yourself to the room, share what you're about, and hopefully introduce people to a cool new technology or thing you've made.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nateberkopec/demodaystaos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Here are some example things you could demo:
 
-### Support or Contact
+1. An open-source project you created or worked on recently.
+2. A home-automation gadget you made recently that feeds your cat every time it meows loudly.
+3. A new audio plugin you made for Ableton.
+4. A digital art project.
+5. A fun technogadget you've been messing around with lately, like Sonic Pi.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email us at admin@taosdemodays.com with your name, desired time length (2 or 10 minutes) and your presentation materials in either PowerPoint, Keynote, PDF, or image (JPG, PNG etc) format. We encourage you to email us all of your presentation materials so we can pre-load them on a single laptop. It helps keep things moving.
