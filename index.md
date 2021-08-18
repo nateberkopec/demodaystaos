@@ -34,4 +34,4 @@ Here are some example things you could demo:
 4. A digital art project.
 5. A fun technogadget you've been messing around with lately, like Sonic Pi.
 
-Email us at admin@taosdemodays.com with your name, desired time length (2 or 10 minutes) and your presentation materials in either PowerPoint, Keynote, PDF, or image (JPG, PNG etc) format. We encourage you to email us all of your presentation materials so we can pre-load them on a single laptop. It helps keep things moving.
+Email us at [admin@taosdemodays.com](mailto:admin@taosdemodays.com) with your name, desired time length (2 or 10 minutes) and your presentation materials in either PowerPoint, Keynote, PDF, or image (JPG, PNG etc) format. We encourage you to email us all of your presentation materials so we can pre-load them on a single laptop. It helps keep things moving.
