@@ -2,7 +2,7 @@
 
 Taos DemoDays is a regular gathering where Taos’ tech community shares what they’ve been up to with small, informal demos and lightning talks.
 
-Open to all technologists, programmers, makers, digital doers of all sizes and stripes. 
+Open to all technologists, programmers, makers, digital doers and tech hobbyists of all sizes and stripes. 
 
 ### The Format
 
