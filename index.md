@@ -16,7 +16,7 @@ DemoDays go like this:
 
 The next DemoDay event is on **Wednesday, September 8th 2021** from 5:30-7pm at Taos HIVE, 1146 Gusdorf Road.
 
-RSVP on Facebook here.
+RSVP [here](https://www.eventbrite.com/e/taos-demoday-september-tickets-168782997489).
 
 ### How To Demo
 
